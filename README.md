@@ -26,7 +26,7 @@ Check out all my work on my [GitHub profile](https://github.com/Sakib635). Here 
 ## 📫 Connect with Me  
 - **Email:** [sadmanjashimsakib@gmail.com](mailto:sadmanjashimsakib@gmail.com)  
 - **LinkedIn:** [Sadman Jashim Sakib](https://www.linkedin.com/in/sadman-jashim-sakib-461623202/)  
-- **Resume:** [View my experiences](https://drive.google.com/file/d/1iCD5IsBUFeERWcZOPTujbhYMgzkbrVqG/view?usp=drive_link)  
+- **Resume:** [View my experiences](https://drive.google.com/file/d/1Fybbn-L1kAeEoFJwj6HOOngmHCGKQiH3/view?usp=drive_link)  
 
 ---
 
