@@ -1,24 +1,24 @@
 # Hi 👋, I'm Sadman Jashim Sakib  
-### Transforming Software Engineering Challenges into Boolean Satisfiability with SMTpip  
+### Transforming Software Engineering Challenges into Boolean Satisfiability with tooool  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sakib635&label=Profile%20views&color=0e75b6&style=flat" alt="sakib635" /> </p>
 
 ---
 
 ## 🌟 About Me  
-I’m a software engineering enthusiast who loves tackling complex problems with creative solutions. My current passion is [SMTpip](https://github.com/Sakib635/SMTpip), a tool that converts software engineering challenges into Boolean satisfiability (SAT) problems, solvable using SMT solvers.
+I’m a software engineering enthusiast who loves tackling complex problems with creative solutions. My current passion is [tooool](https://github.com/Sakib635/tooool), a tool that converts software engineering challenges into Boolean satisfiability (SAT) problems, solvable using SMT solvers.
 
-- 🔭 **Currently working on:** [SMTpip](https://github.com/Sakib635/SMTpip) - Bridging software engineering and SAT solving.  
+- 🔭 **Currently working on:** [tooool](https://github.com/Sakib635/tooool) - Bridging software engineering and SAT solving.  
 - 🌱 **Currently learning:** Advanced SMT solver techniques and their applications in software engineering.  
 - 👯 **Looking to collaborate on:** [Dependency Resolution Tools](https://github.com/Sakib635/dc-resolution) - Let’s streamline package management!  
-- 🤝 **Seeking help with:** [SMTpip Optimization](https://github.com/Sakib635/SMTpip-tool) - Open to ideas for performance and usability improvements.  
-- 💬 **Ask me about:** SMTpip, SMT solvers, or software engineering problem-solving.  
+- 🤝 **Seeking help with:** [tooool Optimization](https://github.com/Sakib635/tooool-tool) - Open to ideas for performance and usability improvements.  
+- 💬 **Ask me about:** tooool, SMT solvers, or software engineering problem-solving.  
 
 ---
 
 ## 📂 My Projects  
 Check out all my work on my [GitHub profile](https://github.com/Sakib635). Here are some highlights:  
-- [SMTpip](https://github.com/Sakib635/SMTpip) - A tool for transforming software problems into SAT problems.  
+- [tooool](https://github.com/Sakib635/tooool) - A tool for transforming software problems into SAT problems.  
 - [Dependency Resolution Tools](https://github.com/Sakib635/dc-resolution) - Efficient solutions for package dependency management.  
 
 ---
